@@ -1,4 +1,4 @@
-package com.zendot.otptest
+package com.zendot.otptest.human
 
 interface Man{
     fun getName():String
